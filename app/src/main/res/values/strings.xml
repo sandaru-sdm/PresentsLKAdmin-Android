@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PresentsLKAdmin</string>
+    <string name="web_client_id">772246628734-q9ftb730kls9a28c3vv0l500uo8if6fd.apps.googleusercontent.com</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="search_hint">Search</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+</resources>
